@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.12">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="548" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="387" dy="202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,17 +22,22 @@
             <mxGeometry x="180" y="28" width="180" height="412" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="6mtEng_Z5EW_VRNtrqkm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_5mSTuPxr-ZiKRkBDSY7-6" source="P7c6wLJH5mqTADDvl_1x-1" target="6mtEng_Z5EW_VRNtrqkm-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <object label="&lt;div&gt;Step 2&lt;/div&gt;&lt;div&gt;Learning basics&lt;br&gt;&lt;/div&gt;" placeholders="1" id="P7c6wLJH5mqTADDvl_1x-1">
           <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-6" vertex="1">
             <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;div&gt;Strings&lt;/div&gt;&lt;div&gt;Integers&lt;/div&gt;&lt;div&gt;Arrays&lt;br&gt;&lt;/div&gt;" placeholders="1" id="6mtEng_Z5EW_VRNtrqkm-1">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="_5mSTuPxr-ZiKRkBDSY7-6" vertex="1">
-            <mxGeometry x="20" y="121" width="140" height="81" as="geometry" />
+        <mxCell id="nBSUJCENXr2g7TScmASq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-6" source="nBSUJCENXr2g7TScmASq-1" target="nBSUJCENXr2g7TScmASq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;div&gt;Step 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;Advanced&lt;br&gt;&lt;/div&gt;" placeholders="1" id="nBSUJCENXr2g7TScmASq-1">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-6">
+            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Pointers" placeholders="1" id="nBSUJCENXr2g7TScmASq-2">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-6">
+            <mxGeometry x="20" y="221" width="140" height="81" as="geometry" />
           </mxCell>
         </object>
         <object label="DONE" status="Completed" id="_5mSTuPxr-ZiKRkBDSY7-9">
@@ -40,13 +45,21 @@
             <mxGeometry x="360" y="28" width="180" height="412" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="qnNoQsZCZpJSGI8JZpsl-2" value="&lt;div&gt;printf&lt;/div&gt;&lt;div&gt;%d,%s,%f,%if,%c&lt;/div&gt;&lt;div&gt;---------------&amp;gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <object label="&lt;div&gt;Strings&lt;/div&gt;&lt;div&gt;Integers&lt;/div&gt;&lt;div&gt;Arrays&lt;br&gt;&lt;/div&gt;&lt;div&gt;Loops&lt;br&gt;&lt;/div&gt;&lt;div&gt;Functions&lt;/div&gt;&lt;div&gt;Static&lt;br&gt;&lt;/div&gt;" placeholders="1" id="6mtEng_Z5EW_VRNtrqkm-1">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="_5mSTuPxr-ZiKRkBDSY7-9" vertex="1">
+            <mxGeometry x="20" y="21" width="140" height="81" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="6mtEng_Z5EW_VRNtrqkm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_5mSTuPxr-ZiKRkBDSY7-1" source="P7c6wLJH5mqTADDvl_1x-1" target="6mtEng_Z5EW_VRNtrqkm-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qnNoQsZCZpJSGI8JZpsl-2" value="&lt;div&gt;printf&lt;/div&gt;&lt;div&gt;%d,%s,%f,%if,%c&lt;/div&gt;&lt;div&gt;---------------&amp;gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="40" y="620" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qnNoQsZCZpJSGI8JZpsl-3" value="&lt;div&gt;%... means the type of the value you want to print &lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; printf(&quot;%d is big&quot;, number)&lt;/div&gt;&lt;div&gt;number is the value and %d is for type integer, so the print says : 20 is big&amp;nbsp;&lt;/div&gt;&lt;div&gt;with number = 20&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="qnNoQsZCZpJSGI8JZpsl-3" value="&lt;div&gt;%... means the type of the value you want to print &lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; printf(&quot;%d is big&quot;, number)&lt;/div&gt;&lt;div&gt;number is the value and %d is for type integer, so the print says : 20 is big&amp;nbsp;&lt;/div&gt;&lt;div&gt;with number = 20&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="220" y="600" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="qnNoQsZCZpJSGI8JZpsl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qnNoQsZCZpJSGI8JZpsl-2" target="qnNoQsZCZpJSGI8JZpsl-3">
+        <mxCell id="qnNoQsZCZpJSGI8JZpsl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qnNoQsZCZpJSGI8JZpsl-2" target="qnNoQsZCZpJSGI8JZpsl-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
