@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="387" dy="202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,16 +27,16 @@
             <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="nBSUJCENXr2g7TScmASq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-6" source="nBSUJCENXr2g7TScmASq-1" target="nBSUJCENXr2g7TScmASq-2">
+        <mxCell id="nBSUJCENXr2g7TScmASq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_5mSTuPxr-ZiKRkBDSY7-6" source="nBSUJCENXr2g7TScmASq-1" target="nBSUJCENXr2g7TScmASq-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="&lt;div&gt;Step 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;Advanced&lt;br&gt;&lt;/div&gt;" placeholders="1" id="nBSUJCENXr2g7TScmASq-1">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-6">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-6" vertex="1">
             <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
-        <object label="Pointers" placeholders="1" id="nBSUJCENXr2g7TScmASq-2">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-6">
+        <object label="&lt;div&gt;Pointers&lt;/div&gt;&lt;div&gt;Linked lists&lt;/div&gt;&lt;div&gt;Dynamic allocation&lt;/div&gt;&lt;div&gt;Recursion&lt;/div&gt;Arrays 2D pointers" placeholders="1" id="nBSUJCENXr2g7TScmASq-2">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="_5mSTuPxr-ZiKRkBDSY7-6" vertex="1">
             <mxGeometry x="20" y="221" width="140" height="81" as="geometry" />
           </mxCell>
         </object>
